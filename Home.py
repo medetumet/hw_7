@@ -23,7 +23,6 @@ class Bank:
     def __jackpot(self):
         self.__money *= 10
 
-
 kicb = Bank(0, 'Unknown')
 kicb.setName('Unknown')
 kicb.setMoney(2000)
