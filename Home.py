@@ -32,7 +32,6 @@ print(kicb.MoneyX())
 print(kicb._kill())
 print(kicb._Bank__jackpot())
 
-
 print(kicb._Bank__jackpot())
 
 
